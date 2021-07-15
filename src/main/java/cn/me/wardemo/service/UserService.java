@@ -1,4 +1,4 @@
-package cn.me.wardemoc.service;
+package cn.me.wardemo.service;
 
 /**
  * @Classname UserService

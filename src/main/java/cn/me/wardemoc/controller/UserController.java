@@ -1,6 +1,6 @@
 package cn.me.wardemoc.controller;
 
-import cn.me.wardemoc.service.UserService;
+import cn.me.wardemo.service.UserService;
 import com.alibaba.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
